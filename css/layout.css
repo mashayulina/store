@@ -1,0 +1,172 @@
+.container
+{
+    margin: auto;
+    max-width: 1200px;
+    width: 100%;
+    height: inherit;
+    padding: 0 20px;
+    position: relative;
+}
+
+.fx
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.f_c
+{
+    justify-content: center;
+}
+
+.f_e
+{
+    justify-content: flex-end;
+}
+
+.f_sa
+{
+    justify-content: space-around;
+}
+
+.f_sb
+{
+    justify-content: space-between;
+}
+
+.f_t
+{
+    align-items: flex-start;
+}
+
+.f_m
+{
+    align-items: center;
+}
+
+.f_b 
+{
+    align-items: flex-end;
+}
+
+.f_col
+{
+    flex-direction: column;
+}
+
+/* Grid */
+
+.gr
+{
+    display: grid;
+}
+
+.gg10
+{
+    grid-gap: 10px;
+}
+
+.gg30
+{
+    grid-gap: 30px;
+}
+
+.g2
+{
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.g3
+{
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.g4
+{
+    grid-template-columns: repeat(4, 1fr);
+}
+
+/* Offsets */
+
+.mv 
+{
+    margin: 20px 0;
+}
+
+.mt
+{
+    margin-top: 20px;
+}
+
+.mb
+{
+    margin-bottom: 20px;
+}
+
+.mh
+{
+    margin: 0 20px;
+}
+
+.ml
+{
+    margin-left: 20px;
+}
+
+.mr 
+{
+    margin-right: 20px;
+}
+
+.pv 
+{
+    margin: 20px 0;
+}
+
+.pt
+{
+    margin-top: 20px;
+}
+
+.pb
+{
+    margin-bottom: 20px;
+}
+
+.ph
+{
+    margin: 0 20px;
+}
+
+.pl
+{
+    margin-left: 20px;
+}
+
+.pr 
+{
+    margin-right: 20px;
+}
+
+.left
+{
+    text-align: left;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.right
+{
+    text-align: right;
+}
+
+.justify
+{
+    text-align: justify;
+}
+
+
+

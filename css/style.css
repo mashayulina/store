@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;700;900&display=swap');
+@import 'https://fonts.googleapis.com/icon?family=Material+Icons';
+@import 'reset.css';
+@import 'layout.css';
+@import 'elems.css';
+@import 'index.css';
+@import 'responsive.css';
+
+
+@import '../js/slick/slick.css';
+@import '../js/slick/slick-theme.css';
+
